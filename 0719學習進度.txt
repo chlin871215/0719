@@ -1,0 +1,6 @@
+寫一個小app
+學習mySQL
+學該怎麼讓app跟node.js和mySQL連接
+https://iandays.com/2018/06/17/nodestart/index.html
+https://codertw.com/%E5%89%8D%E7%AB%AF%E9%96%8B%E7%99%BC/245406/
+https://jerrynest.io/mysql-tutorial/
